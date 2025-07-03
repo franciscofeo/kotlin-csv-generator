@@ -1,0 +1,4 @@
+order_ID,Payment ID,Payment value,Payment method fee,Net amount,Payment date,Currency,Payment method,DDC,Payment Status,Settlement ID,Settlement date,Settlement value,Settlement status,Settlement Beneficiary
+647717480; 141217410,56b378537f4484d9b36bdc2dbb673607,958745,100,158655,9/4/2025 20:58,BRL,Pix,Nestle Alpha,Pago,c8daa59a-6f9f-46ad-a347-481795f5aae9,25/04/2025 11:32:04,814735,ENVIADO,Nestle
+647717481,56b378537f4484d9b36bdc2dbb673608,179655,101,179655,9/4/2025 20:58,BRL,Pix,Nestle Barbacena,Pago,f8tyl859-6f9f-46ad-a347-481795f5aae9,25/04/2025 11:32:04,179655,ENVIADO,Nestle
+647717482,56b378537f4484d9b36bdc2dbb673609,557459,102,158655,9/4/2025 20:58,BRL,Pix,Nestle Alpha,Pago,u7yt59a-6f9f-46ad-a347-481795f5aae9,25/04/2025 11:32:04,158655,FAILED,Nestle
